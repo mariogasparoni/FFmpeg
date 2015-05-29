@@ -1,6 +1,9 @@
 Entries are sorted chronologically from oldest to youngest within each release,
 releases are sorted from youngest to oldest.
 
+version 2.6.3-090sipvideo:
+- removed timeout for sdp/rtsp input
+
 version 2.6.3:
 - avcodec/libtheoraenc: Check for av_malloc failure
 - ffmpeg_opt: Fix -timestamp parsing
